@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="samotpravil/samotpravil.csproj" />
+  <Project Path="samotpravil.Tests/samotpravil.Tests.csproj" />
+</Solution>
